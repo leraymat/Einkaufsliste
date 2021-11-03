@@ -2,6 +2,8 @@
 
 <u>Matthias Leray</u>
 
+ <img src=".\index.jpg" alt="index" style="zoom: 33%;" />
+
 - geboren 20.07.2000 in, Valence
 - 5.10.2006 Ecole Sainte Marie, Valence
 - 12.08.2008 Grundschule, Peterzell
